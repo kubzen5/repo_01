@@ -2,7 +2,7 @@
 MySQL Workbench
 Description: A case where we only want to get columns from the students table.
 From the description of the assignment, I've concluded that it's only about data from student.
-If I want to add data from another tables, I would use for example er.* etc.
+If I want to add data from another tables, I would use for example er.* etc. depends on tables.
 */
 
 SELECT s.* FROM students AS s
