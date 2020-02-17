@@ -1,0 +1,8 @@
+Project file description:
+iris_report.ipynb -> ipynb which is 
+iris_report_seed_check.ipynb -> ipynb which I used to check other seeds, but I didn't put it to final version
+data_raw -> dir with raw csv file
+models -> pkl saved model files
+plots -> png files with plots
+
+Note: My main seed was 777.
