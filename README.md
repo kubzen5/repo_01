@@ -1,2 +1,2 @@
 # Repository tasks
-This is repository with my simply analysis.
+This is repository with my simple ml stuff. Enjoy!
